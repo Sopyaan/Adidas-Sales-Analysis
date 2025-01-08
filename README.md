@@ -4,5 +4,5 @@
 # 📋 Data Description
 # Business Insights Overview
 <p align="center">
-  <img src="https://github.com/Sopyaan/Sales-Analysis-of-Products---Euro-Grossen-Sales-Data-of-2024/blob/main/images/Visulisasi%20data.png", width="" height="">
+  <img src="https://github.com/Sopyaan/Adidas-Sales-Analysis/blob/main/images/dashboard.png", width="" height="">
 </p>
