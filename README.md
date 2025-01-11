@@ -25,8 +25,8 @@ The Adidas Sales Analysis project leverages robust data visualization and collab
 - City: City where the transaction took place.
 - Invoice Date: Date of the sales transaction.
 - Sales Method: Sales channel used (e.g., In-store, Online).
-
 This breakdown of metrics and dimensions provides a structured approach for analyzing sales trends and profitability while supporting strategic business decisions.
+
 
 # Business Insights Overview
 <p align="center">
