@@ -31,3 +31,5 @@ This breakdown of metrics and dimensions provides a structured approach for anal
 <p align="center">
   <img src="https://github.com/Sopyaan/Adidas-Sales-Analysis/blob/main/images/dashboard.png", width="" height="">
 </p>
+
+1. 
