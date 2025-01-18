@@ -33,10 +33,10 @@ This breakdown of metrics and dimensions provides a structured approach for anal
 
 # Business Insights Overview
 <p align="center">
-  <img src="", width="" height="">
+  <img src="https://github.com/Sopyaan/Adidas-Sales-Analysis/blob/main/images/Region.png", width="" height="">
 </p>
 
-Sales in the West region lead the pack with an impressive $269.94 million, significantly outpacing other regions. Following closely is the Northeast region, with $186.32 million, reflecting strong urban consumer activity. Meanwhile, the Southeast and South regions also contribute robust figures of $163.17 million and $144.66 million, respectively, highlighting steady sales performance in these areas. However, the Midwest region lags behind, generating $135.80 million, signaling opportunities for targeted growth strategies.
+**Sales in the West region lead the pack with an impressive $269.94 million,** significantly outpacing other regions. Following closely is the Northeast region, with $186.32 million, reflecting strong urban consumer activity. Meanwhile, the Southeast and South regions also contribute robust figures of $163.17 million and $144.66 million, respectively, highlighting steady sales performance in these areas. However, **the Midwest region lags behind, generating $135.80 million,** signaling opportunities for targeted growth strategies.
 
 <p align="center">
   <img src="", width="" height="">
