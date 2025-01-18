@@ -27,16 +27,32 @@ The Adidas Sales Analysis project leverages robust data visualization and collab
 - Sales Method: Sales channel used (e.g., In-store, Online).
 This breakdown of metrics and dimensions provides a structured approach for analyzing sales trends and profitability while supporting strategic business decisions.
 
-# Business Insights Overview
 <p align="center">
   <img src="https://github.com/Sopyaan/Adidas-Sales-Analysis/blob/main/images/dashboard.png", width="" height="">
 </p>
 
+# Business Insights Overview
+<p align="center">
+  <img src="", width="" height="">
+</p>
+
 Sales in the West region lead the pack with an impressive $269.94 million, significantly outpacing other regions. Following closely is the Northeast region, with $186.32 million, reflecting strong urban consumer activity. Meanwhile, the Southeast and South regions also contribute robust figures of $163.17 million and $144.66 million, respectively, highlighting steady sales performance in these areas. However, the Midwest region lags behind, generating $135.80 million, signaling opportunities for targeted growth strategies.
+
+<p align="center">
+  <img src="", width="" height="">
+</p>
 
 Looking at city-level performance, Charleston emerges as a star performer, contributing $39.97 million in sales, followed by New York City with $39.80 million, showcasing the city's consistent appetite for Adidas products. San Francisco claims the third spot with $34.53 million, fueled by its active lifestyle culture. However, on the other end of the spectrum, Omaha reports just $5.93 million in sales, and Minneapolis follows with $7.38 million, revealing opportunities for deeper market penetration in these areas.
 
+<p align="center">
+  <img src="", width="" height="">
+</p>
+
 On a state level, New York reigns supreme at $64.23 million, showcasing a robust consumer base and high brand engagement. California follows closely with $60.17 million, reflecting its diverse and active population. Meanwhile, Nebraska, at the bottom with $5.93 million, and Minnesota, at $7.38 million, underline the need for strategic efforts to boost presence and sales in these regions.
+
+<p align="center">
+  <img src="", width="" height="">
+</p>
 
 The sales data reveals Men's Street Footwear as the undisputed leader, with a commanding total of $208.83 million. This category demonstrates the strong appeal of versatile and stylish options among male consumers, making it a cornerstone of Adidas' revenue.
 
@@ -46,7 +62,15 @@ Men's Athletic Footwear takes the third position with $153.67 million, underscor
 
 Further down the list, Men's Apparel brings in $123.73 million, reflecting steady engagement with Adidas' clothing offerings for men. At the same time, Women's Athletic Footwear rounds out the rankings with $106.63 million, emphasizing the potential for further growth in this segment through targeted marketing and innovative designs.
 
+<p align="center">
+  <img src="", width="" height="">
+</p>
+
 The average operating margin for Adidas stands at 42.30%, showcasing a solid profitability level across its operations. However, a closer look at regional performance reveals notable disparities.
+
+<p align="center">
+  <img src="", width="" height="">
+</p>
 
 The South region leads the charge with the highest operating margin of 46.69%, demonstrating exceptional cost efficiency and profitability. This success could stem from optimized supply chains or strong sales of high-margin products in the region.
 
@@ -55,6 +79,10 @@ The Midwest region follows with a robust margin of 43.53%, reflecting a steady b
 In contrast, the Northeast region, with a margin of 41.05%, and the West region, at 39.67%, lag behind. The West region’s performance, in particular, suggests opportunities to revisit pricing strategies or cost management practices to boost profitability.
 
 Key Observations from the Correlation Analysis:
+<p align="center">
+  <img src="", width="" height="">
+</p>
+
 Total Sales and Operating Profit:
 
 A strong positive correlation (0.96) indicates that higher total sales strongly drive operating profit. This suggests that scaling sales effectively boosts profitability.
@@ -70,6 +98,10 @@ A negative correlation (-0.36) implies that regions or products with higher sale
 Operating Profit and Units Sold:
 
 A positive correlation (0.89) indicates that higher unit sales positively impact operating profit, reaffirming the importance of driving volume sales to enhance profitability.
+
+<p align="center">
+  <img src="", width="" height="">
+</p>
 
 The in-store method leads as the most significant sales channel ($356.64M), accounting for the highest share of revenue. This reflects the continued strength of physical retail in driving sales, likely supported by direct customer engagement, personalized shopping experiences, and product trial opportunities.
 
