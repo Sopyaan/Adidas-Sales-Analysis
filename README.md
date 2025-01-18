@@ -33,7 +33,7 @@ This breakdown of metrics and dimensions provides a structured approach for anal
 
 # Business Insights Overview
 ## Sales Trend by Regions
-<p align="center">
+<p align="left">
   <img src="https://github.com/Sopyaan/Adidas-Sales-Analysis/blob/main/images/Region.png", width="" height="">
 </p>
 
