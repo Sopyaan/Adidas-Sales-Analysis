@@ -62,7 +62,8 @@ This breakdown of metrics and dimensions provides a structured approach for anal
 <p align="center">
   <img src="https://github.com/Sopyaan/Adidas-Sales-Analysis/blob/main/images/Channels.png", width="" height="">
 </p>
-- **The in-store method leads as the most significant sales channel ($356.64M),** accounting for the highest share of revenue. This reflects the continued strength of physical retail in driving sales, likely supported by direct customer engagement, personalized shopping experiences, and product trial opportunities.
+
+- **The in-store** method leads as the most significant sales channel **($356.64M)**, accounting for the highest share of revenue. This reflects the continued strength of physical retail in driving sales, likely supported by direct customer engagement, personalized shopping experiences, and product trial opportunities.
 - Outlets contribute substantially to revenue ($295.59M), serving as an effective channel for moving inventory and catering to price-sensitive customers. Their proximity to in-store sales highlights their strategic importance in Adidas’ overall sales ecosystem.
 - While online sales rank third ($247.67M), they represent a significant opportunity for growth. As digital transformation continues, this channel can be further optimized to capture market share through enhanced user experiences, targeted advertising, and streamlined logistics.
 
